@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Tharusha</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
+</p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Tharusha</h1>
+
 <h3 align="center">Future Software Engineer | Java Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tharushadils&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 ---
 
@@ -20,9 +28,12 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Tharushadils" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tharushadils&theme=default" />
 </p>
 
 ---

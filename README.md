@@ -75,11 +75,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharushadils&show_icons=true&locale=en&layout=compact" alt="tharushadils" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tharushadils&show_icons=true&locale=en&layout=compact" alt="tharushadils" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushadils&show_icons=true&locale=en" alt="tharushadils" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true&locale=en" alt="tharushadils" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushadils&" alt="tharushadils" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharushadils&" alt="tharushadils" /></p>
 
 ## ✨ Quote I Believe In
 > *"Code • Learn • Build • Repeat"*

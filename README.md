@@ -21,18 +21,18 @@
 - 📍 From Sri Lanka  
 - ⚡ Fun fact: Call me **TDS** 😄  
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 🛠 Languages & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,vscode,idea" />
 </p>
 
----
+https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://camo.githubusercontent.com/514e9b03758e3edf058b5abd28968231bea62be311be10458f6ede0448534601/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6368617468756e676132303037267468656d653d32303737" alt="Profile Summary"/>
+  [<img src="https://camo.githubusercontent.com/514e9b03758e3edf058b5abd28968231bea62be311be10458f6ede0448534601/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d6368617468756e676132303037267468656d653d32303737" alt="Profile Summary"/>](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushadils&theme=2077)
 </p>
 
 <p align="center">
@@ -45,9 +45,12 @@
 - 🚤 Boat Reservation Management System  
 - 📦 Java Stock Management System  
 - 🔐 Login & Credential System  
-- 📁 File Handling Projects  
+- 📁 File Handling Projects
+
+  https://camo.githubusercontent.com/4b4d4770b0a9234016b18b9e21e948acf3c5d310e369f46514008c947677d839/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d313144314535266865696768743d3132302673656374696f6e3d666f6f746572
 
 ---
+
 
 ## 🌐 Connect With Me
 - GitHub: https://github.com/Tharushadils  

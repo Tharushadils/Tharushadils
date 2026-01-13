@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  [<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushadils&theme=2077" alt="Profile Summary"/>](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushadils&theme=2077)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharushadils&theme=2077" alt="Profile Summary"/>
 </p>
 
 
@@ -46,6 +46,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600"/>
 </p>
+
 ## 📂 Featured Projects
 - 🚤 Boat Reservation Management System  
 - 📦 Java Stock Management System  

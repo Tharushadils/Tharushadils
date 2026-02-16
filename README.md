@@ -30,8 +30,11 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🌍 **From:** Sri Lanka 🇱🇰  
-💼 **Role:** Student Software Engineer  
-🎓 **Passion:** Backend Development & System Architecture  
+💼 **Role:** Student Software Engineer 
+🏛️ **Education:** Rajarata University of Sri Lanka(RUSL)
+🏛️ **Education:** Institute of Java & Software Engineering(IJSE)
+🎓 **Passion:** Full Stack Development & System Architecture
+🏢 **Owner & CEO:** Pearl Corporation - Sri Lanka
 ☕ **Fuel:** Coffee → Code → Repeat  
 ⚡ **Known As:** TDS (The Debug Specialist)
 

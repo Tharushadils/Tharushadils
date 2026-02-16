@@ -259,7 +259,7 @@ Complete hospital management solution handling patient records, appointments, me
 
 <div align="center">
 
-## 🎯 2025 Goals & Roadmap
+## 🎯 2026 Goals & Roadmap
 
 <table>
 <tr>
@@ -273,7 +273,7 @@ Complete hospital management solution handling patient records, appointments, me
 - 📋 AWS Cloud
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 ### 🚀 Building
 - ✅ 5+ Management Systems

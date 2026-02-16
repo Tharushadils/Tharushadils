@@ -249,6 +249,7 @@ Complete hospital management solution handling patient records, appointments, me
 
 ## 📊 GitHub Statistics
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharushadils&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<br>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tharushadils&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 

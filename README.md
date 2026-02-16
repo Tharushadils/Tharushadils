@@ -263,7 +263,7 @@ Complete hospital management solution handling patient records, appointments, me
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 ### 🎓 Learning
 - ✅ Master Java & JavaFX
@@ -283,7 +283,7 @@ Complete hospital management solution handling patient records, appointments, me
 - 📋 Technical Blog
 
 </td>
-<td align="center" width="33%">
+<td align="left" width="33%">
 
 ### 🌟 Growth
 - ✅ 500+ LeetCode Problems

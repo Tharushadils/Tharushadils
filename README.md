@@ -150,15 +150,7 @@
 
 ---
 
-<div align="center">
 
-## 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tharushadils&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
----
 
 ## 💼 Featured Projects
 
@@ -258,9 +250,6 @@ Complete hospital management solution handling patient records, appointments, me
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharushadils&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushadils&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tharushadils&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 
 </div>

@@ -19,6 +19,7 @@
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Java+Applications;Crafting+Elegant+Database+Solutions;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

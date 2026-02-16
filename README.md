@@ -250,7 +250,10 @@ Complete hospital management solution handling patient records, appointments, me
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tharushadils&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushadils&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+
 
 </div>
 

@@ -29,7 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🌍 **From &nbsp      :** Sri Lanka 🇱🇰  <br>
+🌍 **From       :** Sri Lanka 🇱🇰  <br>
 💼 **Role       :** Student Software Engineer <br>
 🏛️ **Education  :** Rajarata University of Sri Lanka(RUSL)<br>
 🏛️ **Education  :** Institute of Java & Software Engineering(IJSE)<br>

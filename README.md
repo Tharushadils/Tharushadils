@@ -266,7 +266,7 @@ Complete hospital management solution handling patient records, appointments, me
 <td align="left" width="33%">
 
 ### 🎓 Learning
-- ✅ Master Java & JavaFX
+- ✅ Master Java and JavaFX
 - ✅ Advanced MySQL
 - 🔄 Spring Boot
 - 📋 Microservices

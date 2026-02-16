@@ -265,29 +265,7 @@ gantt
 
 ---
 
-### 🎓 Certifications & Achievements
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
-<b>Java Certified</b><br>
-<sub>Oracle Java Foundations</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/><br>
-<b>Database Expert</b><br>
-<sub>Advanced SQL & Design</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/><br>
-<b>Problem Solver</b><br>
-<sub>⭐⭐⭐⭐⭐ 5 Stars</sub>
-</td>
-</tr>
-</table>
-
----
 
 ### 📚 Latest Blog Posts & Articles
 

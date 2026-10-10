@@ -368,6 +368,26 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 </div>
 
+
+
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Tharushadils&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharushadils&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most Used Languages"
+  />
+  <br/><br/>
+ 
+  <br/><br/>
+  
+</p>
+
 ---
 
 <div align="center">
@@ -382,5 +402,8 @@ I'm always open to interesting conversations and collaboration opportunities!
   <img src="https://img.shields.io/github/followers/Tharushadils?label=Followers&style=social" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/Tharushadils?label=Stars&style=social" alt="GitHub Stars"/>
 </p>
+
+
+
 
 </div>
